@@ -74,3 +74,15 @@ figure h2 {
 figcaption {
   padding: 1rem;
 }
+
+dl {
+  margin: 0;
+}
+
+dt {
+  font-style: italic;
+}
+
+ dd {
+   margin-left: 1rem;
+ }
