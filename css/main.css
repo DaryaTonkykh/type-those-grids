@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: serif;
+  font-family: "Merriweather Text", serif;
   line-height: 1.5;
 }
 
@@ -8,9 +8,9 @@ html {
   box-sizing: inherit;
 }
 
- body {
-   margin: 0;
- }
+body {
+  margin: 0;
+}
 
 img {
   width: 100%;
@@ -20,8 +20,8 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "banner banner banner"
-  "col1 col2 col3";
+    "banner banner banner"
+    "col1 col2 col3";
   gap: .75rem;
 }
 
@@ -83,6 +83,6 @@ dt {
   font-style: italic;
 }
 
- dd {
-   margin-left: 1rem;
- }
+dd {
+  margin-left: 1rem;
+}
