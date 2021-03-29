@@ -1,4 +1,4 @@
----
+a---
 summary: 'Apply basic CSS Grid layouts to a simple typography-focused layout.'
 time: '1 hour'
 deliverables: '1 HTML file, 1 CSS file, images'
